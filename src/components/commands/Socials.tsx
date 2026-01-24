@@ -64,7 +64,7 @@ const socials = [
   {
     id: 3,
     title: "Email",
-    url: "mailto:shashankchouhdhary792@gmail.com",
+    url: "mailto:shashankchoudhary792@gmail.com",
     tab: 6,
   },
 ];
